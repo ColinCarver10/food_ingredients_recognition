@@ -4,7 +4,7 @@ def load_parameters():
     """
 
     # Input data params
-    DATA_ROOT_PATH = '/media/HDD_3TB/marc/multimodal_keras_wrapper/data/sample_data/' # Root path to the data
+    DATA_ROOT_PATH = 'data/multimodal_keras_wrapper_data/sample_data' # Root path to the data
     #DATA_ROOT_PATH = '/media/HDD_3TB/DATASETS/Ingredients101/'
     #DATA_ROOT_PATH = '/media/HDD_3TB/DATASETS/Recipes5k/'
     CLASSIFICATION_TYPE = 'single-label' # 'single-label' or 'multi-label'
